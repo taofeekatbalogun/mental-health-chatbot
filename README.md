@@ -40,6 +40,7 @@ I built a simple chatbot using **Python, NLTK (Natural Language Processing)**, a
 - `mental_health_bot.ipynb` – The chatbot code (Jupyter Notebook)
 - `mental_health_faq.csv` – Sample Q&A dataset
 - `requirements.txt` – Python libraries used
+- `chatbot demo.png2.jnp  _screenshot
   
 
 ---
@@ -48,7 +49,8 @@ I built a simple chatbot using **Python, NLTK (Natural Language Processing)**, a
 
  [Watch Demo on Google Drive](https://drive.google.com/file/d/1Z8AxRcVy_VgAS7ePTM-k6qrqBCzdLAs1/view?usp=drivesdk)  
 
-
+---
+![Chatbot Demo Screenshot](chatbot_demo.png2.jnp)
 ---
 
 ##  Creator
